@@ -1,4 +1,37 @@
 Windows Registry Editor Version 5.00
+; chrome version: 105.0.5195.102
 
-[HKEY_CURRENT_USER\Software\SajatBeallitas]
-"Pelda"="igen"
+[HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome\URLAllowlist]
+"1"="my.logiscool.com"
+"2"="kahoot.it"
+"3"="scoolcode.com"
+"4"="thisissand.com"
+"5"="typetastic.com"
+"6"="roomrecess.com"
+"7"="typingclub.com"
+"8"="kodugamelab.com"
+"9"="howsecureismypassword.net"
+"10"="akasztofajatek.hu"
+"11"="emojikeyboard.io"
+"12"="emoji-maker.com"
+"13"="trycolors.com"
+"14"="color-blindness.com"
+"15"="code.org"
+"16"="toytheater.com"
+"17"="wordwall.net"
+"18"="beinternetawesome.withgoogle.com"
+"19"="pixilart.com"
+"20"="assetstore.unity.com"
+"21"="jetbrains.com"
+"22"="python.org"
+"23"="chrome://settings"
+"24"="chrome://policy"
+"25"="new-tab-page"
+"26"="lsc.io"
+
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome\URLBlocklist]
+"1"="*"
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge\URLBlocklist]
+"1"="*"
